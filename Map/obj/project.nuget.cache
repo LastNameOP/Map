@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "JQm4Lw+jCiIwVbYcXwBr1ZTDqnsJmP9EZREyXPLT+a15nuCPv3zxtKjtQy/m8Ar46ZFFhyezD6RBnzWQyenv7g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\LastName\\Desktop\\Map\\Map\\Map.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LastName\\.nuget\\packages\\documentformat.openxml\\2.18.0\\documentformat.openxml.2.18.0.nupkg.sha512",
+    "C:\\Users\\LastName\\.nuget\\packages\\gmap.net.windows\\1.9.9\\gmap.net.windows.1.9.9.nupkg.sha512",
+    "C:\\Users\\LastName\\.nuget\\packages\\microsoft.netcore.platforms\\3.0.0\\microsoft.netcore.platforms.3.0.0.nupkg.sha512",
+    "C:\\Users\\LastName\\.nuget\\packages\\microsoft.win32.registry\\4.6.0\\microsoft.win32.registry.4.6.0.nupkg.sha512",
+    "C:\\Users\\LastName\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\LastName\\.nuget\\packages\\runtime.native.system.data.sqlclient.sni\\4.6.0\\runtime.native.system.data.sqlclient.sni.4.6.0.nupkg.sha512",
+    "C:\\Users\\LastName\\.nuget\\packages\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\LastName\\.nuget\\packages\\runtime.win-x64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\LastName\\.nuget\\packages\\runtime.win-x86.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x86.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\LastName\\.nuget\\packages\\system.data.sqlclient\\4.7.0\\system.data.sqlclient.4.7.0.nupkg.sha512",
+    "C:\\Users\\LastName\\.nuget\\packages\\system.data.sqlite\\1.0.112\\system.data.sqlite.1.0.112.nupkg.sha512",
+    "C:\\Users\\LastName\\.nuget\\packages\\system.data.sqlite.core\\1.0.112\\system.data.sqlite.core.1.0.112.nupkg.sha512",
+    "C:\\Users\\LastName\\.nuget\\packages\\system.io.packaging\\4.7.0\\system.io.packaging.4.7.0.nupkg.sha512",
+    "C:\\Users\\LastName\\.nuget\\packages\\system.security.accesscontrol\\4.6.0\\system.security.accesscontrol.4.6.0.nupkg.sha512",
+    "C:\\Users\\LastName\\.nuget\\packages\\system.security.principal.windows\\4.6.0\\system.security.principal.windows.4.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}

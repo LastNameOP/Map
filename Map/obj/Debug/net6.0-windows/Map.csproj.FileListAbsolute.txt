@@ -1,0 +1,136 @@
+C:\Users\student\Desktop\siuuu\Map\Map\bin\Debug\net6.0-windows\Map.exe
+C:\Users\student\Desktop\siuuu\Map\Map\bin\Debug\net6.0-windows\Map.deps.json
+C:\Users\student\Desktop\siuuu\Map\Map\bin\Debug\net6.0-windows\Map.runtimeconfig.json
+C:\Users\student\Desktop\siuuu\Map\Map\bin\Debug\net6.0-windows\Map.dll
+C:\Users\student\Desktop\siuuu\Map\Map\bin\Debug\net6.0-windows\Map.pdb
+C:\Users\student\Desktop\siuuu\Map\Map\bin\Debug\net6.0-windows\GMap.NET.Core.dll
+C:\Users\student\Desktop\siuuu\Map\Map\bin\Debug\net6.0-windows\GMap.NET.WindowsForms.dll
+C:\Users\student\Desktop\siuuu\Map\Map\bin\Debug\net6.0-windows\GMap.NET.WindowsPresentation.dll
+C:\Users\student\Desktop\siuuu\Map\Map\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\student\Desktop\siuuu\Map\Map\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\student\Desktop\siuuu\Map\Map\bin\Debug\net6.0-windows\System.Data.SQLite.dll
+C:\Users\student\Desktop\siuuu\Map\Map\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\student\Desktop\siuuu\Map\Map\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\student\Desktop\siuuu\Map\Map\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\student\Desktop\siuuu\Map\Map\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\student\Desktop\siuuu\Map\Map\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\student\Desktop\siuuu\Map\Map\bin\Debug\net6.0-windows\runtimes\linux-x64\native\netstandard2.0\SQLite.Interop.dll
+C:\Users\student\Desktop\siuuu\Map\Map\bin\Debug\net6.0-windows\runtimes\osx-x64\native\netstandard2.0\SQLite.Interop.dll
+C:\Users\student\Desktop\siuuu\Map\Map\bin\Debug\net6.0-windows\runtimes\win-x64\native\netstandard2.0\SQLite.Interop.dll
+C:\Users\student\Desktop\siuuu\Map\Map\bin\Debug\net6.0-windows\runtimes\win-x86\native\netstandard2.0\SQLite.Interop.dll
+C:\Users\student\Desktop\siuuu\Map\Map\obj\Debug\net6.0-windows\Map.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\siuuu\Map\Map\obj\Debug\net6.0-windows\Map.Form1.resources
+C:\Users\student\Desktop\siuuu\Map\Map\obj\Debug\net6.0-windows\Map.csproj.GenerateResource.cache
+C:\Users\student\Desktop\siuuu\Map\Map\obj\Debug\net6.0-windows\Map.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Desktop\siuuu\Map\Map\obj\Debug\net6.0-windows\Map.AssemblyInfoInputs.cache
+C:\Users\student\Desktop\siuuu\Map\Map\obj\Debug\net6.0-windows\Map.AssemblyInfo.cs
+C:\Users\student\Desktop\siuuu\Map\Map\obj\Debug\net6.0-windows\Map.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\siuuu\Map\Map\obj\Debug\net6.0-windows\Map.csproj.CopyComplete
+C:\Users\student\Desktop\siuuu\Map\Map\obj\Debug\net6.0-windows\Map.dll
+C:\Users\student\Desktop\siuuu\Map\Map\obj\Debug\net6.0-windows\refint\Map.dll
+C:\Users\student\Desktop\siuuu\Map\Map\obj\Debug\net6.0-windows\Map.pdb
+C:\Users\student\Desktop\siuuu\Map\Map\obj\Debug\net6.0-windows\Map.genruntimeconfig.cache
+C:\Users\student\Desktop\siuuu\Map\Map\obj\Debug\net6.0-windows\ref\Map.dll
+C:\Users\student\Desktop\siuuu\Map\Map\bin\Debug\net6.0-windows\DocumentFormat.OpenXml.dll
+C:\Users\Student.POLCOL\Documents\Visual Studio 2022\Map\Map\bin\Debug\net6.0-windows\Map.exe
+C:\Users\Student.POLCOL\Documents\Visual Studio 2022\Map\Map\bin\Debug\net6.0-windows\Map.deps.json
+C:\Users\Student.POLCOL\Documents\Visual Studio 2022\Map\Map\bin\Debug\net6.0-windows\Map.runtimeconfig.json
+C:\Users\Student.POLCOL\Documents\Visual Studio 2022\Map\Map\bin\Debug\net6.0-windows\Map.dll
+C:\Users\Student.POLCOL\Documents\Visual Studio 2022\Map\Map\bin\Debug\net6.0-windows\Map.pdb
+C:\Users\Student.POLCOL\Documents\Visual Studio 2022\Map\Map\bin\Debug\net6.0-windows\DocumentFormat.OpenXml.dll
+C:\Users\Student.POLCOL\Documents\Visual Studio 2022\Map\Map\bin\Debug\net6.0-windows\GMap.NET.Core.dll
+C:\Users\Student.POLCOL\Documents\Visual Studio 2022\Map\Map\bin\Debug\net6.0-windows\GMap.NET.WindowsForms.dll
+C:\Users\Student.POLCOL\Documents\Visual Studio 2022\Map\Map\bin\Debug\net6.0-windows\GMap.NET.WindowsPresentation.dll
+C:\Users\Student.POLCOL\Documents\Visual Studio 2022\Map\Map\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\Student.POLCOL\Documents\Visual Studio 2022\Map\Map\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Student.POLCOL\Documents\Visual Studio 2022\Map\Map\bin\Debug\net6.0-windows\System.Data.SQLite.dll
+C:\Users\Student.POLCOL\Documents\Visual Studio 2022\Map\Map\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Student.POLCOL\Documents\Visual Studio 2022\Map\Map\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Student.POLCOL\Documents\Visual Studio 2022\Map\Map\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Student.POLCOL\Documents\Visual Studio 2022\Map\Map\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Student.POLCOL\Documents\Visual Studio 2022\Map\Map\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Student.POLCOL\Documents\Visual Studio 2022\Map\Map\bin\Debug\net6.0-windows\runtimes\linux-x64\native\netstandard2.0\SQLite.Interop.dll
+C:\Users\Student.POLCOL\Documents\Visual Studio 2022\Map\Map\bin\Debug\net6.0-windows\runtimes\osx-x64\native\netstandard2.0\SQLite.Interop.dll
+C:\Users\Student.POLCOL\Documents\Visual Studio 2022\Map\Map\bin\Debug\net6.0-windows\runtimes\win-x64\native\netstandard2.0\SQLite.Interop.dll
+C:\Users\Student.POLCOL\Documents\Visual Studio 2022\Map\Map\bin\Debug\net6.0-windows\runtimes\win-x86\native\netstandard2.0\SQLite.Interop.dll
+C:\Users\Student.POLCOL\Documents\Visual Studio 2022\Map\Map\obj\Debug\net6.0-windows\Map.csproj.AssemblyReference.cache
+C:\Users\Student.POLCOL\Documents\Visual Studio 2022\Map\Map\obj\Debug\net6.0-windows\Map.Form1.resources
+C:\Users\Student.POLCOL\Documents\Visual Studio 2022\Map\Map\obj\Debug\net6.0-windows\Map.csproj.GenerateResource.cache
+C:\Users\Student.POLCOL\Documents\Visual Studio 2022\Map\Map\obj\Debug\net6.0-windows\Map.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student.POLCOL\Documents\Visual Studio 2022\Map\Map\obj\Debug\net6.0-windows\Map.AssemblyInfoInputs.cache
+C:\Users\Student.POLCOL\Documents\Visual Studio 2022\Map\Map\obj\Debug\net6.0-windows\Map.AssemblyInfo.cs
+C:\Users\Student.POLCOL\Documents\Visual Studio 2022\Map\Map\obj\Debug\net6.0-windows\Map.csproj.CoreCompileInputs.cache
+C:\Users\Student.POLCOL\Documents\Visual Studio 2022\Map\Map\obj\Debug\net6.0-windows\Map.csproj.CopyComplete
+C:\Users\Student.POLCOL\Documents\Visual Studio 2022\Map\Map\obj\Debug\net6.0-windows\Map.dll
+C:\Users\Student.POLCOL\Documents\Visual Studio 2022\Map\Map\obj\Debug\net6.0-windows\refint\Map.dll
+C:\Users\Student.POLCOL\Documents\Visual Studio 2022\Map\Map\obj\Debug\net6.0-windows\Map.pdb
+C:\Users\Student.POLCOL\Documents\Visual Studio 2022\Map\Map\obj\Debug\net6.0-windows\Map.genruntimeconfig.cache
+C:\Users\Student.POLCOL\Documents\Visual Studio 2022\Map\Map\obj\Debug\net6.0-windows\ref\Map.dll
+\\nas\Student\ИСП-221 2к\Хилков Макеев Синтяков\Map\Map\bin\Debug\net6.0-windows\Map.exe
+\\nas\Student\ИСП-221 2к\Хилков Макеев Синтяков\Map\Map\bin\Debug\net6.0-windows\Map.deps.json
+\\nas\Student\ИСП-221 2к\Хилков Макеев Синтяков\Map\Map\bin\Debug\net6.0-windows\Map.runtimeconfig.json
+\\nas\Student\ИСП-221 2к\Хилков Макеев Синтяков\Map\Map\bin\Debug\net6.0-windows\Map.dll
+\\nas\Student\ИСП-221 2к\Хилков Макеев Синтяков\Map\Map\bin\Debug\net6.0-windows\Map.pdb
+\\nas\Student\ИСП-221 2к\Хилков Макеев Синтяков\Map\Map\bin\Debug\net6.0-windows\DocumentFormat.OpenXml.dll
+\\nas\Student\ИСП-221 2к\Хилков Макеев Синтяков\Map\Map\bin\Debug\net6.0-windows\GMap.NET.Core.dll
+\\nas\Student\ИСП-221 2к\Хилков Макеев Синтяков\Map\Map\bin\Debug\net6.0-windows\GMap.NET.WindowsForms.dll
+\\nas\Student\ИСП-221 2к\Хилков Макеев Синтяков\Map\Map\bin\Debug\net6.0-windows\GMap.NET.WindowsPresentation.dll
+\\nas\Student\ИСП-221 2к\Хилков Макеев Синтяков\Map\Map\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+\\nas\Student\ИСП-221 2к\Хилков Макеев Синтяков\Map\Map\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+\\nas\Student\ИСП-221 2к\Хилков Макеев Синтяков\Map\Map\bin\Debug\net6.0-windows\System.Data.SQLite.dll
+\\nas\Student\ИСП-221 2к\Хилков Макеев Синтяков\Map\Map\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+\\nas\Student\ИСП-221 2к\Хилков Макеев Синтяков\Map\Map\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+\\nas\Student\ИСП-221 2к\Хилков Макеев Синтяков\Map\Map\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+\\nas\Student\ИСП-221 2к\Хилков Макеев Синтяков\Map\Map\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+\\nas\Student\ИСП-221 2к\Хилков Макеев Синтяков\Map\Map\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+\\nas\Student\ИСП-221 2к\Хилков Макеев Синтяков\Map\Map\bin\Debug\net6.0-windows\runtimes\linux-x64\native\netstandard2.0\SQLite.Interop.dll
+\\nas\Student\ИСП-221 2к\Хилков Макеев Синтяков\Map\Map\bin\Debug\net6.0-windows\runtimes\osx-x64\native\netstandard2.0\SQLite.Interop.dll
+\\nas\Student\ИСП-221 2к\Хилков Макеев Синтяков\Map\Map\bin\Debug\net6.0-windows\runtimes\win-x64\native\netstandard2.0\SQLite.Interop.dll
+\\nas\Student\ИСП-221 2к\Хилков Макеев Синтяков\Map\Map\bin\Debug\net6.0-windows\runtimes\win-x86\native\netstandard2.0\SQLite.Interop.dll
+\\nas\Student\ИСП-221 2к\Хилков Макеев Синтяков\Map\Map\obj\Debug\net6.0-windows\Map.csproj.AssemblyReference.cache
+\\nas\Student\ИСП-221 2к\Хилков Макеев Синтяков\Map\Map\obj\Debug\net6.0-windows\Map.Form1.resources
+\\nas\Student\ИСП-221 2к\Хилков Макеев Синтяков\Map\Map\obj\Debug\net6.0-windows\Map.csproj.GenerateResource.cache
+\\nas\Student\ИСП-221 2к\Хилков Макеев Синтяков\Map\Map\obj\Debug\net6.0-windows\Map.GeneratedMSBuildEditorConfig.editorconfig
+\\nas\Student\ИСП-221 2к\Хилков Макеев Синтяков\Map\Map\obj\Debug\net6.0-windows\Map.AssemblyInfoInputs.cache
+\\nas\Student\ИСП-221 2к\Хилков Макеев Синтяков\Map\Map\obj\Debug\net6.0-windows\Map.AssemblyInfo.cs
+\\nas\Student\ИСП-221 2к\Хилков Макеев Синтяков\Map\Map\obj\Debug\net6.0-windows\Map.csproj.CoreCompileInputs.cache
+\\nas\Student\ИСП-221 2к\Хилков Макеев Синтяков\Map\Map\obj\Debug\net6.0-windows\Map.csproj.CopyComplete
+\\nas\Student\ИСП-221 2к\Хилков Макеев Синтяков\Map\Map\obj\Debug\net6.0-windows\Map.dll
+\\nas\Student\ИСП-221 2к\Хилков Макеев Синтяков\Map\Map\obj\Debug\net6.0-windows\refint\Map.dll
+\\nas\Student\ИСП-221 2к\Хилков Макеев Синтяков\Map\Map\obj\Debug\net6.0-windows\Map.pdb
+\\nas\Student\ИСП-221 2к\Хилков Макеев Синтяков\Map\Map\obj\Debug\net6.0-windows\Map.genruntimeconfig.cache
+\\nas\Student\ИСП-221 2к\Хилков Макеев Синтяков\Map\Map\obj\Debug\net6.0-windows\ref\Map.dll
+C:\Users\LastName\Desktop\Map\Map\bin\Debug\net6.0-windows\Map.exe
+C:\Users\LastName\Desktop\Map\Map\bin\Debug\net6.0-windows\Map.deps.json
+C:\Users\LastName\Desktop\Map\Map\bin\Debug\net6.0-windows\Map.runtimeconfig.json
+C:\Users\LastName\Desktop\Map\Map\bin\Debug\net6.0-windows\Map.dll
+C:\Users\LastName\Desktop\Map\Map\bin\Debug\net6.0-windows\Map.pdb
+C:\Users\LastName\Desktop\Map\Map\bin\Debug\net6.0-windows\DocumentFormat.OpenXml.dll
+C:\Users\LastName\Desktop\Map\Map\bin\Debug\net6.0-windows\GMap.NET.Core.dll
+C:\Users\LastName\Desktop\Map\Map\bin\Debug\net6.0-windows\GMap.NET.WindowsForms.dll
+C:\Users\LastName\Desktop\Map\Map\bin\Debug\net6.0-windows\GMap.NET.WindowsPresentation.dll
+C:\Users\LastName\Desktop\Map\Map\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\LastName\Desktop\Map\Map\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\LastName\Desktop\Map\Map\bin\Debug\net6.0-windows\System.Data.SQLite.dll
+C:\Users\LastName\Desktop\Map\Map\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\LastName\Desktop\Map\Map\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\LastName\Desktop\Map\Map\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\LastName\Desktop\Map\Map\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\LastName\Desktop\Map\Map\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\LastName\Desktop\Map\Map\bin\Debug\net6.0-windows\runtimes\linux-x64\native\netstandard2.0\SQLite.Interop.dll
+C:\Users\LastName\Desktop\Map\Map\bin\Debug\net6.0-windows\runtimes\osx-x64\native\netstandard2.0\SQLite.Interop.dll
+C:\Users\LastName\Desktop\Map\Map\bin\Debug\net6.0-windows\runtimes\win-x64\native\netstandard2.0\SQLite.Interop.dll
+C:\Users\LastName\Desktop\Map\Map\bin\Debug\net6.0-windows\runtimes\win-x86\native\netstandard2.0\SQLite.Interop.dll
+C:\Users\LastName\Desktop\Map\Map\obj\Debug\net6.0-windows\Map.csproj.AssemblyReference.cache
+C:\Users\LastName\Desktop\Map\Map\obj\Debug\net6.0-windows\Map.Form1.resources
+C:\Users\LastName\Desktop\Map\Map\obj\Debug\net6.0-windows\Map.csproj.GenerateResource.cache
+C:\Users\LastName\Desktop\Map\Map\obj\Debug\net6.0-windows\Map.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LastName\Desktop\Map\Map\obj\Debug\net6.0-windows\Map.AssemblyInfoInputs.cache
+C:\Users\LastName\Desktop\Map\Map\obj\Debug\net6.0-windows\Map.AssemblyInfo.cs
+C:\Users\LastName\Desktop\Map\Map\obj\Debug\net6.0-windows\Map.csproj.CoreCompileInputs.cache
+C:\Users\LastName\Desktop\Map\Map\obj\Debug\net6.0-windows\Map.csproj.CopyComplete
+C:\Users\LastName\Desktop\Map\Map\obj\Debug\net6.0-windows\Map.dll
+C:\Users\LastName\Desktop\Map\Map\obj\Debug\net6.0-windows\refint\Map.dll
+C:\Users\LastName\Desktop\Map\Map\obj\Debug\net6.0-windows\Map.pdb
+C:\Users\LastName\Desktop\Map\Map\obj\Debug\net6.0-windows\Map.genruntimeconfig.cache
+C:\Users\LastName\Desktop\Map\Map\obj\Debug\net6.0-windows\ref\Map.dll
